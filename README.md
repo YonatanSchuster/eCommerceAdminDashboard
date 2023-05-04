@@ -30,6 +30,15 @@ First, run the development server:
 npm run dev
 
 ```
+## Some preview photos!
+![Product page](./images-README/ProductsPage.png)
+![Edit New Product](./images-README/EditNewProduct.png)
+![Add New Product](./images-README/AddNewProduct.png)
+![Categories Page](./images-README/CategoriesPage.png)
+![Edit Categories Page](./images-README/EditCategoriesPage.png)
+![Orders Page](./images-README/OrdersPage.png)
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
